@@ -12,53 +12,51 @@ An interactive fact-sharing web application where users can explore, contribute,
 
 ## ✨ Key Features
 
-* ➕ Add new facts with a source link
-* 🏷️ Categorize facts for easy browsing
-* 👍 Like / 👎 Dislike reactions
-* 🤯 “Awesome” reaction button
-* ⚡ Real-time data updates
-* 📱 Responsive design for all screen sizes
+- ➕ Add new facts with a source link
+- 🏷️ Categorize facts for easy browsing
+- 👍 Like / 👎 Dislike reactions
+- 🤯 “Awesome” reaction button
+- ⚡ Real-time data updates
+- 📱 Responsive design for all screen sizes
 
 ---
 
 ## 🛠️ Tech Stack
 
-* Frontend: HTML, CSS, React
-* Backend / Database: Supabase
-* Deployment: Netlify
+- Frontend: HTML, CSS, React
+- Backend / Database: Supabase
+- Deployment: Netlify
 
 ---
-
 
 ## ⚙️ Getting Started
 
 ### 1. Clone the Repository
 
-* git clone https://github.com/your-username/fact-learn-app.git
-* cd fact-learn
+- git clone https://github.com/your-username/fact-learn-app.git
+- cd fact-learn
 
 ### 2. Install Dependencies
 
-* npm install
-* npm install @supabase/supabase-js
-
+- npm install
+- npm install @supabase/supabase-js
 
 ### 3. Run Locally
 
-* npm run start
+- npm run start
 
 ---
 
 ## 🧠 How It Works
 
-* Users can submit facts with a source link
-* Facts are categorized and stored in Supabase
-* Users react with:
+- Users can submit facts with a source link
+- Facts are categorized and stored in Supabase
+- Users react with:
+  - 👍 Like
+  - 👎 Dislike
+  - 🤯 Awesome
 
-  * 👍 Like
-  * 👎 Dislike
-  * 🤯 Awesome
-* Data updates in real-time without page reload
+- Data updates in real-time without page reload
 
 ---
 
@@ -73,11 +71,11 @@ An interactive fact-sharing web application where users can explore, contribute,
 
 ## 📌 Future Improvements
 
-* 🔐 User authentication
-* 🔍 Search & filter
-* 📊 Trending system
-* 🌙 Dark mode
-* 🧾 Pagination
+- 🔐 User authentication
+- 🔍 Search & filter
+- 📊 Trending system
+- 🌙 Dark mode
+- 🧾 Pagination
 
 ---
 
