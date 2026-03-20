@@ -6,7 +6,7 @@ An interactive fact-sharing web application where users can explore, contribute,
 
 ## 🚀 Live Demo
 
-👉 [https://your-netlify-link.netlify.app](https://ajoydey99-factlearn.netlify.app/)
+👉 [https://ajoydey99-factlearn.netlify.app](https://ajoydey99-factlearn.netlify.app/)
 
 ---
 
