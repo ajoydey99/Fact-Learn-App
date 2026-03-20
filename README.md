@@ -33,7 +33,7 @@ An interactive fact-sharing web application where users can explore, contribute,
 
 ### 1. Clone the Repository
 
-- git clone https://github.com/your-username/fact-learn-app.git
+- git clone https://github.com/ajoydey99/fact-learn-app.git
 - cd fact-learn
 
 ### 2. Install Dependencies
